@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remote name="Star-caorui" fetch="https://github.com/Star-caorui" />
+  <remote name="ayusc" fetch="https://github.com/ayusc" />
 
   <project name="android_device_xiaomi_gold" path="device/xiaomi/gold" remote="ayusc" revision="lineage-24.0" />
   <project name="android_vendor_xiaomi_gold" path="vendor/xiaomi/gold" remote="ayusc" revision="lineage-24.0" clone-depth="1" />
